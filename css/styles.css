@@ -1,0 +1,20 @@
+/*######### COMMUN ###########*/
+a{
+    text-decoration: none;
+}
+/*######### INDEX ###########*/
+
+.inscription, .connexion{
+    box-shadow: 1px 1px 3px rgb(0, 157, 255);
+    padding: 30px 5px;
+    border-radius: 20px;
+}
+
+/*######### CATALOGUE ###########*/
+
+.indisponible{
+    color: black;
+    font-style: italic;
+}
+
+

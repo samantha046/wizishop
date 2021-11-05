@@ -1,0 +1,21 @@
+nav#menu ul {
+    text-align: center;
+    background-color: #188fbb;
+}
+
+nav#menu ul li {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+nav#menu ul li:hover {
+    background-color: #bfc0c1;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+nav#menu ul li a {
+    text-decoration: none;
+    color: black;
+}
+
